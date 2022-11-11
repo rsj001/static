@@ -1,2 +1,3 @@
-for(var i = 1 ; i <= 1000000000000000000000000; i++) console.log("Ha");
-//history.go(-1);
+$("span").text("HahahaOJ");
+$("img").attr("src","https://avatars.githubusercontent.com/u/46622836?v=4");
+setTimeout("history.go(-1);", 4000);
